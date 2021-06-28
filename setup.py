@@ -13,11 +13,11 @@ setuptools.setup(
     description="An ETL pipeline",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/javatechy/dokr",
+    url="https://github.com/dejesusjmb/etl_package",
     packages=setuptools.find_packages(),
     classifiers=[
-     "Programming Language :: Python :: 3",
-     "License :: OSI Approved :: MIT License",
-     "Operating System :: OS Independent",
+         "Programming Language :: Python :: 3",
+         "License :: OSI Approved :: MIT License",
+         "Operating System :: OS Independent",
     ]
 )
